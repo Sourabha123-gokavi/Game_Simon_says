@@ -19,8 +19,6 @@ The excitement doesn't end here. I'm gearing up to integrate audio, introduce a 
 
 Explore the project with me on GitHub, where coding and creativity intertwine!
 
-#PatternRecognition #GameDev #WebTech #JavaScriptMagic
-
-[Optional: Visual element showcasing the game's aesthetics.]
+#GameDev #WebTech #JavaScriptMagic
 
 Looking forward to connecting with fellow coding enthusiasts and gaming aficionados!
